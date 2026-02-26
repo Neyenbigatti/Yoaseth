@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoaseth
+- 👋 Hi, I’m @neyenbigatti
 - 👀 I’m interested in learn more of these world of programing
 - 🌱 I’m currently learning full stack (HTML, CSS, SCSS, Js, MySql, Php)
 - 💞️ I’m looking to collaborate on anything
